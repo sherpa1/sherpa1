@@ -1,5 +1,5 @@
 <img src="https://sherpa.one/images/sherpa-logotype.png" width="180px">
-__Alexandre Leroux__
+Alexandre Leroux
 
 _Enseignant / Formateur_<br>
 _Développeur logiciel web & mobile_
