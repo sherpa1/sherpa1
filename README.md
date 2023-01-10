@@ -1,4 +1,7 @@
-<img src="https://sherpa.one/images/sherpa-logotype.png" width="180px"><br>
+--
+
+<img src="https://sherpa.one/images/sherpa-logotype.png" width="120px">
+
 __Alexandre Leroux__
 
 _Enseignant / Formateur_<br>
